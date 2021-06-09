@@ -1,0 +1,34 @@
+@media(max-width:575px ){
+	.minz a{
+	
+	display:block;
+	
+}
+.minz {
+margin: 0 auto;
+}
+.net img{
+	display: none;
+}
+.net{
+	width: 90%;
+	
+}
+.net p{
+	width: 80%;
+	display: block;
+	
+}
+.net h1{
+	text-align: center;
+	width: 10%
+}
+.tiktok img{
+	width: 100%;
+}
+.tiktok {
+	width: 75%;
+
+}
+.tiktoc{
+}
